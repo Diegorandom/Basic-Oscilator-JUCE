@@ -1,3 +1,9 @@
-# Basic-Oscilator-JUCE
+# Basic Oscillator — the smallest JUCE plugin
 
-This synth is part of the excersices from these [tutorials.](https://www.youtube.com/watch?v=kxKEFTQRZPI&list=PL7MMDOT-xbdV1BpYpqVjnT-mPFTuawVdD&index=2)
+One oscillator, one gain, one editor. Kept as the "hello world" of the audio work: the first time a `processBlock` produced something you could hear.
+
+**Inside:** `Source/` · `basicOscillator.jucer`
+
+**Build:** open `basicOscillator.jucer` in Projucer and export to your IDE.
+
+**Context:** a learning project, not a product. The production work — three commercial plugins for macOS and Windows, and the licensing platform behind them — is at [Casa Occidente](https://casaoccidente.com).
